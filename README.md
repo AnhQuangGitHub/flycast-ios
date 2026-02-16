@@ -40,7 +40,7 @@ Install Flycast from [**Google Play**](https://play.google.com/store/apps/detail
 
 ### iOS
 
-Due to persistent harassment from an iOS user, support for this platform has been dropped. 
+In Actions
 
 ### Xbox One/Series ![xbox logo](https://flyinghead.github.io/flycast-builds/xbox.png)
 
